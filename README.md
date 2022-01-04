@@ -1,7 +1,7 @@
 # sin-s-cript
 <h1 align="center">
   <br>
-  <a href="https://github.com/gangsterdevil/sin-s-cript"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F991%2F317%2FHD-wallpaper-hacker-black-hat-code-computer-hack-hacking-mask-script-virus.jpg&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-goliw&tbnid=wqQUCRCNl2tQSM&vet=12ahUKEwjT48qd9Jf1AhVk_jgGHQ8nC0gQMyhWegQIARBg..i&docid=rYeyAc8gyY8YKM&w=800&h=1422&itg=1&q=script%20hack&ved=2ahUKEwjT48qd9Jf1AhVk_jgGHQ8nC0gQMyhWegQIARBg" alt="Darkside"></a>
+  <a href="https://github.com/gangsterdevil/sin-s-cript"><img src="https://w0.peakpx.com/wallpaper/991/317/HD-wallpaper-hacker-black-hat-code-computer-hack-hacking-mask-script-virus.jpg" alt="Darkside"></a>
 
 </h1>
 
