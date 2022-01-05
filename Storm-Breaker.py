@@ -3,8 +3,8 @@ import sys
 import platform
 import pip
 from subprocess import getoutput
-from modules import banner
-from modules import localhost
+from module import banner
+from module import localhost
 
 
 
