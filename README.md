@@ -34,6 +34,8 @@
 ### Operating Systems Tested
 
 - Kali Linux 2020
+- Kali linux 2021
+- Kali Linux 2022
 
 ### Installation On Kali Linux
 
